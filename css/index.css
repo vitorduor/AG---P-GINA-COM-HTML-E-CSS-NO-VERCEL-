@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: #fffeba;
+}
+
+
+
+p{
+    text-align: center;
+}
+
+#grupozumbi{
+    width: 500px;
+    margin-left: 31%;
+    align-self: unset;
+    border: 5px solid #d8d16f;
+}
+
+#texto1{
+    text-align: justify;
+    line-height: 1.5;
+    width: 80%;
+    margin: 20px auto 0;
+    
+}
+
+.introdução{
+    width: 100%;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+.desenvolvimento1{
+    background-color: white;
+    padding: 100px;
+}
+
+.texto-imagem1{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#posterzumbi{
+    width: 300px;
+    border: 5px solid #d8d16f;
+}
+
+#texto2{
+    padding: 40px;
+    text-align: justify;
+    line-height: 1.5;
+    width: 50%;}
+
+.desenvolvimento2{
+    padding: 70px
+    
+}
+
+.imagenspop img {
+    width: 140px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px solid #d8d16f;
+}
+
+.imagenspop {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.Texto3{
+    padding: 30px;
+}
+
+#tituloconclusão{
+    margin-top: 100px;
+}
+
+.Texto4{
+    padding: 50px;
+}
+
+#dev1{
+    margin-left: -600px;
+}
+
+.CONCLUSÃO{
+    background-color: white;
+    padding: 120px;
+}
+
+#titulodaconclusão{
+    padding: 30px;
+}
+
+#textofinal{
+    padding: 70px;
+}
+
+
+
